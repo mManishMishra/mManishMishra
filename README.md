@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ManishMishra
-- 🌱 I’m Full Stack Developer (MERN)
+- 🌱 I’m Frontend Developer (MERN)
 - 💞️ I’m looking to collaborate on MERN related projects
 - 📫 Contact Me manishmarv@gmail.com
 -     Currently Learning React Native
