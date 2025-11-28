@@ -1,6 +1,3 @@
-- 👋 Hi, I’m ManishMishra
-- 🌱 Software Development Engineer in Test (SDET)
-- 📫 Contact Me manishmarv@gmail.com
 - # 👋 Hi, I’m Manish Mishra  
 
 ## 🧪 Software Development Engineer in Test (SDET)
