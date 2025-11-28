@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ManishMishra
-- 🌱 I’m Frontend Developer (MERN)
-- 💞️ I’m looking to collaborate on MERN related projects
+- 🌱 Software Development Engineer in Test (SDET)
+- 💞️ I’m looking to collaborate on Full Stack(Javascript) related projects
 - 📫 Contact Me manishmarv@gmail.com
 -     Currently Learning React Native
