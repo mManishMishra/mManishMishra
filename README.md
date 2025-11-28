@@ -2,4 +2,4 @@
 - 🌱 Software Development Engineer in Test (SDET)
 - 💞️ I’m looking to collaborate on Full Stack(Javascript) related projects
 - 📫 Contact Me manishmarv@gmail.com
--     Currently Learning React Native
+-     Currently Learning Typescript
